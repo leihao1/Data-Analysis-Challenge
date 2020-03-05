@@ -1,0 +1,231 @@
+Jacksonville FL Atlanta GA Nashville TN	Memphis TN
+New York NY Newark NJ Philadelphia PA	Jersey City NJ
+New York NY Newark NJ WASHINGTON DC	Baltimore MD
+Edmonton AB Calgary AB Seattle WA	Victoria BC
+Toronto ON Oshawa ON Saint Catharines-Niagara ON Hamilton ON	Kitchener ON
+San Jose CA San Francisco CA Sacramento CA	Stockton CA
+Toronto ON Saint Catharines-Niagara ON Buffalo NY Hamilton ON	Kitchener ON
+San Jose CA Chicago IL Montreal QC	Los Angeles CA
+Vancouver BC Seattle WA Edmonton AB	Calgary AB
+Chicago IL Madison WI Minneapolis MN	Saint Paul MN
+Houston TX San Antonio TX Austin TX	Dallas TX
+Los Angeles CA Santa Ana CA Anaheim CA	Long Beach CA
+Chicago IL Madison WI Milwaukee WI	Fort Wayne IN
+Montreal QC Oshawa ON Hamilton ON	Kitchener ON
+Jacksonville FL Saint Petersburg FL Hialeah FL	Tampa FL
+New York NY Jersey City NJ Philadelphia PA Baltimore MD	Newark NJ
+Calgary AB Edmonton AB Victoria BC	Seattle WA
+New York NY Jersey City NJ Baltimore MD	Philadelphia PA
+New York NY Jersey City NJ Philadelphia PA	Newark NJ
+Columbus OH Cleveland OH London ON Hamilton ON Kitchener ON	Oshawa ON
+New York NY Baltimore MD Norfolk VA Chesapeake VA	Virginia Beach VA
+Dallas TX New York NY Vancouver BC	Chicago IL
+Houston TX Corpus Christi TX San Antonio TX	Austin TX
+San Jose CA Oakland CA San Francisco CA Sacramento CA Stockton CA	Fresno CA
+Los Angeles CA Anaheim CA Santa Ana CA	Long Beach CA
+Chicago IL Milwaukee WI Madison WI	Fort Wayne IN
+Chicago IL Milwaukee WI Fort Wayne IN	Indianapolis IN
+Chicago IL Milwaukee WI Fort Wayne IN Columbus OH	Cleveland OH
+San Diego CA Santa Ana CA Riverside CA	Anaheim CA
+Toronto ON Oshawa ON Hamilton ON Kitchener ON London ON	Detroit MI
+Calgary AB Vancouver BC Victoria BC	Seattle WA
+New York NY Jersey City NJ Philadelphia PA	Baltimore MD
+Dallas TX Plano TX Arlington TX	Fort Worth TX
+Toronto ON Hamilton ON Buffalo NY	Saint Catharines-Niagara ON
+Columbus OH Cincinnati OH Lexington KY	Louisville KY
+Vancouver BC Seattle WA Victoria BC	Calgary AB
+San Diego CA Long Beach CA Anaheim CA	Santa Ana CA
+New York NY Boston MA Newark NJ	Baltimore MD
+New York NY Newark NJ Jersey City NJ	Philadelphia PA
+Detroit MI Toledo OH Fort Wayne IN	Cincinnati OH
+New York NY Boston MA Newark NJ	Jersey City NJ
+Calgary AB Portland OR Seattle WA	Victoria BC
+Chicago IL Madison WI Minneapolis MN	Saint Paul MN
+New York NY Philadelphia PA Newark NJ Jersey City NJ Boston MA Montreal QC	OTTAWA ON
+San Antonio TX Houston TX Austin TX Arlington TX	Plano TX
+San Diego CA Long Beach CA Riverside CA	Santa Ana CA
+Houston TX Dallas TX Plano TX Fort Worth TX Austin TX	San Antonio TX
+Detroit MI London ON Kitchener ON Hamilton ON	Toronto ON
+Chicago IL Milwaukee WI Toledo OH	Fort Wayne IN
+New York NY Newark NJ Jersey City NJ	Philadelphia PA
+Columbus OH Cleveland OH London ON Kitchener ON	Hamilton ON
+Toronto ON Oshawa ON Hamilton ON	Kitchener ON
+Dallas TX Plano TX Oklahoma City OK	Tulsa OK
+New York NY Jersey City NJ Newark NJ Baltimore MD	Philadelphia PA
+Houston TX Austin TX Arlington TX	Plano TX
+New York NY Philadelphia PA Jersey City NJ	Newark NJ
+Vancouver BC Portland OR Seattle WA	Victoria BC
+New York NY Jersey City NJ Baltimore MD WASHINGTON DC Norfolk VA	Virginia Beach VA
+New York NY Boston MA Montreal QC	OTTAWA ON
+Phoenix AZ Glendale AZ Scottsdale AZ	Tucson AZ
+Philadelphia PA Newark NJ New York NY	Jersey City NJ
+Vancouver BC Portland OR Seattle WA	Victoria BC
+New York NY Jersey City NJ Boston MA Montreal QC	Quebec QC
+Detroit MI Toledo OH Windsor ON	London ON
+Philadelphia PA New York NY Jersey City NJ	Newark NJ
+San Diego CA Long Beach CA Santa Ana CA	Los Angeles CA
+Phoenix AZ Scottsdale AZ Mesa AZ Chandler AZ	Glendale AZ
+New York NY Jersey City NJ Baltimore MD WASHINGTON DC	Philadelphia PA
+San Diego CA Santa Ana CA Anaheim CA	Los Angeles CA
+Vancouver BC Victoria BC Seattle WA Portland OR Stockton CA	Sacramento CA
+Chicago IL Milwaukee WI Toledo OH Windsor ON	Detroit MI
+Edmonton AB Calgary AB Vancouver BC Victoria BC	Seattle WA
+Montreal QC Toronto ON Hamilton ON	Saint Catharines-Niagara ON
+San Diego CA Santa Ana CA Anaheim CA	Riverside CA
+Dallas TX Plano TX Oklahoma City OK	Wichita KS
+New York NY Jersey City NJ Newark NJ Baltimore MD	Philadelphia PA
+New York NY Newark NJ Philadelphia PA	Jersey City NJ
+San Diego CA Santa Ana CA Anaheim CA	Riverside CA
+OTTAWA ON Oshawa ON Saint Catharines-Niagara ON	Kitchener ON
+Phoenix AZ Glendale AZ Mesa AZ	Chandler AZ
+Toronto ON Oshawa ON Kitchener ON	Hamilton ON
+Toronto ON Oshawa ON Buffalo NY	Saint Catharines-Niagara ON
+Chicago IL Fort Wayne IN Columbus OH	Cincinnati OH
+Phoenix AZ Glendale AZ Scottsdale AZ	Tucson AZ
+Calgary AB Victoria BC Vancouver BC Seattle WA Portland OR	Sacramento CA
+Phoenix AZ Glendale AZ Chandler AZ Mesa AZ Tucson AZ	Scottsdale AZ
+San Diego CA Riverside CA Anaheim CA	Long Beach CA
+Indianapolis IN Cincinnati OH Fort Wayne IN	Toledo OH
+New York NY Baltimore MD Newark NJ	Jersey City NJ
+Edmonton AB Portland OR Victoria BC	Vancouver BC
+Calgary AB Seattle WA Portland OR Vancouver BC	Victoria BC
+Toronto ON Saint Catharines-Niagara ON Oshawa ON	Hamilton ON
+Los Angeles CA Santa Ana CA Riverside CA	Anaheim CA
+Los Angeles CA Santa Ana CA Long Beach CA	Riverside CA
+Columbus OH Fort Wayne IN Indianapolis IN Cincinnati OH	Lexington KY
+Indianapolis IN Cincinnati OH Lexington KY	Columbus OH
+San Diego CA Anaheim CA Santa Ana CA Riverside CA	Los Angeles CA
+Montreal QC OTTAWA ON Oshawa ON Toronto ON	Saint Catharines-Niagara ON
+Montreal QC OTTAWA ON Oshawa ON Hamilton ON	Saint Catharines-Niagara ON
+San Diego CA Santa Ana CA Riverside CA	Long Beach CA
+New York NY Newark NJ Jersey City NJ Baltimore MD	WASHINGTON DC
+Calgary AB Portland OR Vancouver BC	Victoria BC
+Philadelphia PA WASHINGTON DC Norfolk VA	Chesapeake VA
+Phoenix AZ Mesa AZ Scottsdale AZ Glendale AZ	Tucson AZ
+Montreal QC Quebec QC Oshawa ON Saint Catharines-Niagara ON	Buffalo NY
+Montreal QC OTTAWA ON Oshawa ON	Toronto ON
+Montreal QC OTTAWA ON Toronto ON	Hamilton ON
+Chicago IL Toledo OH Detroit MI	Cleveland OH
+Chicago IL New York NY Los Angeles CA	Houston TX
+Los Angeles CA Long Beach CA Anaheim CA	Riverside CA
+Toronto ON Oshawa ON Saint Catharines-Niagara ON Hamilton ON	Buffalo NY
+New York NY Boston MA Newark NJ	Jersey City NJ
+New York NY Philadelphia PA Baltimore MD	Norfolk VA
+New York NY Baltimore MD Philadelphia PA Jersey City NJ	Newark NJ
+San Diego CA Anaheim CA Santa Ana CA Los Angeles CA	Riverside CA
+Montreal QC Toronto ON Saint Catharines-Niagara ON Buffalo NY	Oshawa ON
+Chicago IL Fort Wayne IN Toledo OH	Cleveland OH
+Montreal QC OTTAWA ON Oshawa ON Toronto ON	Kitchener ON
+Calgary AB Edmonton AB Vancouver BC Victoria BC	Portland OR
+Toronto ON Oshawa ON Buffalo NY Saint Catharines-Niagara ON	Hamilton ON
+Houston TX San Antonio TX Austin TX	Fort Worth TX
+Edmonton AB Calgary AB Vancouver BC Victoria BC	Seattle WA
+New York NY Jersey City NJ Baltimore MD WASHINGTON DC Chesapeake VA Norfolk VA	Raleigh NC
+OTTAWA ON Oshawa ON Kitchener ON	London ON
+Philadelphia PA Jersey City NJ Newark NJ Baltimore MD Norfolk VA	Virginia Beach VA
+New York NY Jersey City NJ Philadelphia PA Newark NJ Baltimore MD	Norfolk VA
+Calgary AB Seattle WA Vancouver BC	Victoria BC
+Toronto ON Kitchener ON London ON	Saint Catharines-Niagara ON
+Edmonton AB Victoria BC Vancouver BC	Seattle WA
+New York NY Jersey City NJ Newark NJ Philadelphia PA Baltimore MD WASHINGTON DC	Virginia Beach VA
+Montreal QC OTTAWA ON Toronto ON	Oshawa ON
+Montreal QC OTTAWA ON Oshawa ON Saint Catharines-Niagara ON Toronto ON	Hamilton ON
+San Diego CA Santa Ana CA Riverside CA	Anaheim CA
+San Diego CA Riverside CA Anaheim CA	Los Angeles CA
+New York NY Philadelphia PA Newark NJ	Jersey City NJ
+Chicago IL Milwaukee WI Toledo OH	Windsor ON
+Dallas TX Plano TX Austin TX San Antonio TX Arlington TX	Fort Worth TX
+Edmonton AB Vancouver BC Victoria BC Portland OR	Seattle WA
+Indianapolis IN Cincinnati OH Lexington KY	Louisville KY
+Dallas TX Austin TX San Antonio TX	Corpus Christi TX
+OTTAWA ON Toronto ON Saint Catharines-Niagara ON	Buffalo NY
+Houston TX San Antonio TX Austin TX	Dallas TX
+New York NY Jersey City NJ Philadelphia PA	Newark NJ
+Los Angeles CA Long Beach CA Santa Ana CA Riverside CA	Anaheim CA
+New York NY Jersey City NJ Baltimore MD	WASHINGTON DC
+Houston TX Dallas TX Arlington TX	Fort Worth TX
+Toronto ON Saint Catharines-Niagara ON Buffalo NY	Hamilton ON
+Chicago IL Indianapolis IN Lexington KY	Louisville KY
+Dallas TX Plano TX Fort Worth TX	Arlington TX
+Los Angeles CA Anaheim CA Long Beach CA	Santa Ana CA
+San Diego CA Riverside CA Los Angeles CA	Anaheim CA
+Calgary AB Seattle WA Victoria BC	Portland OR
+Montreal QC Oshawa ON Hamilton ON Buffalo NY	Toronto ON
+New York NY Philadelphia PA Baltimore MD WASHINGTON DC	Chesapeake VA
+New York NY Newark NJ Philadelphia PA	Jersey City NJ
+New York NY Baltimore MD Newark NJ	Jersey City NJ
+Los Angeles CA Riverside CA Long Beach CA Anaheim CA	Santa Ana CA
+San Antonio TX Austin TX Fort Worth TX Dallas TX	Plano TX
+Chicago IL Milwaukee WI Fort Wayne IN	Columbus OH
+New York NY Newark NJ Baltimore MD	Norfolk VA
+Philadelphia PA Newark NJ New York NY	Jersey City NJ
+Montreal QC Quebec QC Boston MA	New York NY
+Montreal QC OTTAWA ON Toronto ON Buffalo NY	Saint Catharines-Niagara ON
+Edmonton AB Seattle WA Vancouver BC	Portland OR
+Vancouver BC Seattle WA Victoria BC Edmonton AB	Calgary AB
+New York NY Philadelphia PA WASHINGTON DC Baltimore MD	Newark NJ
+New York NY Jersey City NJ Baltimore MD	Philadelphia PA
+New York NY Philadelphia PA Newark NJ	Jersey City NJ
+Chicago IL Fort Wayne IN Indianapolis IN Cincinnati OH	Lexington KY
+Toronto ON Oshawa ON Saint Catharines-Niagara ON Kitchener ON	London ON
+Jacksonville FL Atlanta GA Birmingham AL	Memphis TN
+Montreal QC OTTAWA ON Oshawa ON	Hamilton ON
+Phoenix AZ New York NY Houston TX	Los Angeles CA
+New York NY Baltimore MD Norfolk VA	Virginia Beach VA
+Dallas TX Plano TX Arlington TX	Fort Worth TX
+San Antonio TX Fort Worth TX Oklahoma City OK Tulsa OK Wichita KS Kansas City MO	Lincoln NE
+Phoenix AZ Scottsdale AZ Glendale AZ Chandler AZ	Mesa AZ
+Jacksonville FL Miami FL Tampa FL	Saint Petersburg FL
+New York NY Baltimore MD Philadelphia PA Newark NJ	Jersey City NJ
+Columbus OH Fort Wayne IN Indianapolis IN Cincinnati OH Louisville KY	Lexington KY
+Vancouver BC Calgary AB Seattle WA	Portland OR
+Montreal QC Los Angeles CA Houston TX	New York NY
+New York NY Newark NJ Jersey City NJ Philadelphia PA WASHINGTON DC	Baltimore MD
+San Jose CA Stockton CA Oakland CA	Sacramento CA
+Toronto ON Saint Catharines-Niagara ON Oshawa ON	Hamilton ON
+Dallas TX Austin TX Fort Worth TX	Oklahoma City OK
+New York NY Newark NJ Baltimore MD	Philadelphia PA
+Los Angeles CA Bakersfield CA Santa Ana CA Long Beach CA	Anaheim CA
+Los Angeles CA Riverside CA Santa Ana CA	Anaheim CA
+Los Angeles CA Long Beach CA Santa Ana CA	San Diego CA
+Toronto ON Hamilton ON Kitchener ON	London ON
+Montreal QC OTTAWA ON Oshawa ON	Toronto ON
+Toronto ON Hamilton ON Saint Catharines-Niagara ON	Kitchener ON
+Los Angeles CA Long Beach CA Santa Ana CA	Anaheim CA
+Houston TX San Antonio TX Austin TX	Fort Worth TX
+New York NY Philadelphia PA Jersey City NJ	Newark NJ
+Phoenix AZ Mesa AZ Tucson AZ Chandler AZ	Scottsdale AZ
+Montreal QC OTTAWA ON Oshawa ON	Toronto ON
+New York NY Boston MA Montreal QC	OTTAWA ON
+Detroit MI London ON Hamilton ON	Kitchener ON
+Jacksonville FL Tampa FL Atlanta GA Birmingham AL Nashville TN Lexington KY	Columbus OH
+OTTAWA ON Toronto ON Oshawa ON Saint Catharines-Niagara ON Hamilton ON	Buffalo NY
+New York NY Philadelphia PA Jersey City NJ	Newark NJ
+Toronto ON Oshawa ON Buffalo NY	Hamilton ON
+Houston TX Austin TX Fort Worth TX Arlington TX Oklahoma City OK	Plano TX
+Chicago IL Milwaukee WI Fort Wayne IN	Cincinnati OH
+Philadelphia PA Newark NJ Jersey City NJ	New York NY
+Calgary AB Seattle WA Victoria BC	Vancouver BC
+OTTAWA ON Oshawa ON Toronto ON	Saint Catharines-Niagara ON
+Toronto ON Oshawa ON Kitchener ON	London ON
+New York NY Newark NJ Philadelphia PA	Jersey City NJ
+Houston TX Austin TX San Antonio TX	Corpus Christi TX
+New York NY Philadelphia PA Jersey City NJ	Baltimore MD
+New York NY Baltimore MD WASHINGTON DC Chesapeake VA	Virginia Beach VA
+Los Angeles CA Long Beach CA Santa Ana CA	Riverside CA
+Toronto ON Oshawa ON Saint Catharines-Niagara ON	Buffalo NY
+Calgary AB Edmonton AB Vancouver BC	Victoria BC
+San Jose CA Oakland CA Sacramento CA	San Francisco CA
+Houston TX Austin TX San Antonio TX	Corpus Christi TX
+Chicago IL Toledo OH Cleveland OH	Windsor ON
+Vancouver BC Seattle WA Victoria BC	Portland OR
+Houston TX Austin TX Arlington TX	Fort Worth TX
+San Diego CA Santa Ana CA Anaheim CA	Riverside CA
+Los Angeles CA Santa Ana CA Long Beach CA Anaheim CA	Riverside CA
+Phoenix AZ Glendale AZ Chandler AZ Scottsdale AZ	Mesa AZ
+Indianapolis IN Cincinnati OH Columbus OH Toledo OH Windsor ON	Fort Wayne IN
+Dallas TX Fort Worth TX Arlington TX Austin TX Houston TX San Antonio TX	Corpus Christi TX
+Los Angeles CA Riverside CA Anaheim CA Santa Ana CA	Long Beach CA
+San Antonio TX Arlington TX Plano TX	Dallas TX
+New York NY Newark NJ Philadelphia PA Baltimore MD	WASHINGTON DC
+Philadelphia PA Newark NJ WASHINGTON DC	Baltimore MD
